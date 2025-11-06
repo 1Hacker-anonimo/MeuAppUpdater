@@ -1,1 +1,4 @@
-
+Novidades da versão 1:
+- Tela inicial redesenhada
+- Correção de bugs de reprodução
+- Melhor desempenho geral
