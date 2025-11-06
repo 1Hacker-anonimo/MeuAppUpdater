@@ -1,3 +1,3 @@
-4300
+57000
 https://github.com/1Hacker-anonimo/MeuAppUpdater/releases/download/App/ApoloMusicPlayer-master.zip
 https://raw.githubusercontent.com/1Hacker-anônimo/MeuAppUpdater/main/notes_v1.txt
